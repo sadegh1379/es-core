@@ -62,7 +62,7 @@ jobs:
   auto-merge:
     needs: publish-to-npm-registry
     runs-on: ubuntu-latest
-    if: success()  # اجرا فقط در صورت موفقیت‌آمیز بودن مرحله انتشار
+    if: success()
 
     steps:
       - name: Checkout code
