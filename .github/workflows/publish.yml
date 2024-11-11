@@ -3,39 +3,74 @@ name: Publish Package
 on:
   pull_request:
     types:
-      - opened
-      - reopened
+      - closed
     branches:
-      - 'master'
+      - master
 
 jobs:
-  build:
+  starter:
+    if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'master' && github.event.pull_request.head.ref == 'develop'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set permissions for clean-package.sh
-        run: chmod +x scripts/clean-package.sh
+  publish-to-npm-registry:
+    needs: starter
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+      
+      - name: move hooks
+        run: mv hooks dist/hooks
+
+      - name: move utils
+        run: mv hooks dist/utils
+
+      - name: move icons
+        run: mv hooks dist/icons
+
+      - name: Display structure of downloaded files
+        run: ls -R dist
 
       - name: Clean Package.Json
         run: scripts/clean-package.sh
 
       - name: Cache dependencies
-        uses: actions/setup-node@v3
+        uses: actions/cache@v2
         with:
-          node-version: '18.13.0'
-          cache: 'yarn'
-          registry-url: 'https://npm.pkg.github.com'
-        
+          path: ~/.yarn
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+  
       - name: Install dependencies
-        run: yarn install --prefer-offline
-
-      - name: build
-        run: yarn build
+        run: yarn install
+  
+      - name: post Build Helper
+        run: npm run post:build
 
       - name: Publish to GitHub npm Registry
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npm publish ./dist
+
+  auto-merge:
+    needs: publish-to-npm-registry
+    runs-on: ubuntu-latest
+    if: success()  # اجرا فقط در صورت موفقیت‌آمیز بودن مرحله انتشار
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Merge Pull Request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER=$(jq -r ".pull_request.number" < "$GITHUB_EVENT_PATH")
+          gh pr merge $PR_NUMBER --repo ${{ github.repository }} --squash --admin
