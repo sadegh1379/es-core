@@ -17,7 +17,7 @@ jobs:
         uses: rjstone/discord-webhook-notify@v1
         with:
           severity: info
-          details: Build es-core Started
+          details: 🚀 Build es-core Started
           webhookUrl: https://discord.com/api/webhooks/1305509365129941033/YFjmv_TrvbKyD2aGQTRq_X1-scvb3QlP0uAmawgebT0nbwzMoTaewbUnjYfsvY0EZTm9
 
       - name: Checkout code
@@ -52,7 +52,7 @@ jobs:
         if: success()
         with:
           severity: info
-          details: Build es-core success
+          details: ✅ Build es-core success
           webhookUrl: https://discord.com/api/webhooks/1305509365129941033/YFjmv_TrvbKyD2aGQTRq_X1-scvb3QlP0uAmawgebT0nbwzMoTaewbUnjYfsvY0EZTm9
 
       - name: Notify Discord build fail
@@ -60,5 +60,5 @@ jobs:
         if: failure()
         with:
           severity: error
-          details: Build es-core error
+          details: ❌ Build es-core error
           webhookUrl: https://discord.com/api/webhooks/1305509365129941033/YFjmv_TrvbKyD2aGQTRq_X1-scvb3QlP0uAmawgebT0nbwzMoTaewbUnjYfsvY0EZTm9
