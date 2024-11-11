@@ -1,5 +1,4 @@
 import { FC } from 'react';
-import { DotLoader } from '../loader/dot-loader';
 import styles from './button.module.css';
 import { ButtonPropTypes } from './types';
 import { Link } from 'react-router-dom';
@@ -7,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Button: FC<ButtonPropTypes> = input => {
 	const { variant, size, children, className, href, to, isLoading, disabled, ...props } = input;
 
-	const innerChildren = isLoading ? <DotLoader className={styles.button_loader} /> : children;
+	const innerChildren = children;
 	return href ? (
 		<a
 			href={href}

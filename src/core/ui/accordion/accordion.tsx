@@ -1,7 +1,7 @@
 import styles from './accordion.module.css';
 import { FC, useState } from 'react';
 import { IAccordionPropTypes } from './types';
-import { ArrowDownBold } from 'icons';
+import { AddOutline } from 'icons';
 
 const Accordion: FC<IAccordionPropTypes> = ({ dataList, prefixId, titleClassName, className, valueClassName, itemClassName }) => {
 	const [activeQuestionIndex, setActiveQuestionIndex] = useState<number | null>(null);
@@ -25,7 +25,7 @@ const Accordion: FC<IAccordionPropTypes> = ({ dataList, prefixId, titleClassName
 				>
 					<div className={`${styles.title} ${titleClassName ?? ''}`} onClick={() => onAccordionClickHandler(index)}>
 						{item.title}
-						<ArrowDownBold />
+						<AddOutline />
 					</div>
 					<div
 						className={`${styles.value} ${valueClassName ?? ''}`}

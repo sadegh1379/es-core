@@ -27,7 +27,7 @@ async function createPackageFile() {
 	const targetPathUtils = resolve(distPath + '/utils', './package.json');
 
 	const IconsPackage = {
-		name: '@coinlocally/cly-core/icons',
+		name: '@sadegh1379/es-core/icons',
 		version: packageOthers.version,
 		private: false,
 		main: './cjs/index.js',
@@ -35,7 +35,7 @@ async function createPackageFile() {
 		types: './index.d.ts',
 	};
 	const HooksPackage = {
-		name: '@coinlocally/cly-core/hooks',
+		name: '@sadegh1379/es-core/hooks',
 		version: packageOthers.version,
 		private: false,
 		main: './cjs/index.js',
@@ -43,7 +43,7 @@ async function createPackageFile() {
 		types: './index.d.ts',
 	};
 	const UtilsPackage = {
-		name: '@coinlocally/cly-core/utils',
+		name: '@sadegh1379/es-core/utils',
 		version: packageOthers.version,
 		private: false,
 		main: './cjs/index.js',
