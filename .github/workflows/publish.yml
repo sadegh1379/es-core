@@ -35,9 +35,6 @@ jobs:
       - name: build
         run: yarn build
 
-      - name: Check npm login status
-        run: npm whoami --registry=https://npm.pkg.github.com
-
       - name: Publish to GitHub npm Registry
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GH_TOKEN }}
