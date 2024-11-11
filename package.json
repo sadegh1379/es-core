@@ -1,6 +1,6 @@
 {
-  "name": "@coinlocally/cly-core",
-  "version": "2.15.17",
+  "name": "@sadegh1379/es-core",
+  "version": "1.1.0",
   "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -73,7 +73,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coinlocally/cly-core.git"
+    "url": "https://github.com/sadegh1379/es-core.git"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
