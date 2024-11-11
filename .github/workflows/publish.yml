@@ -1,0 +1,40 @@
+name: Publish Package
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+    branches:
+      - 'master'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set permissions for clean-package.sh
+        run: chmod +x scripts/clean-package.sh
+
+      - name: Clean Package.Json
+        run: scripts/clean-package.sh
+
+      - name: Cache dependencies
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.13.0'
+          cache: 'yarn'
+        
+      - name: Install dependencies
+        run: yarn install --prefer-offline
+
+      - name: build
+        run: yarn build
+
+      - name: Publish to GitHub npm Registry
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: npm publish ./dist

@@ -1,0 +1,49 @@
+:root {
+	--core-color-skeleton-bg: rgba(0, 0, 0, 0.11);
+}
+
+[data-theme='dark'] {
+	--core-color-skeleton-bg: rgba(255, 255, 255, 0.13);
+}
+
+.skeleton {
+	display: block;
+	animation: pulse 1s ease-in-out infinite alternate;
+	background-color: var(--core-color-skeleton-bg);
+	opacity: 0.5;
+}
+
+.text {
+	height: 1.2em;
+	margin-top: 0;
+	margin-bottom: 0;
+	transform-origin: 0 55%;
+	transform: scale(1, 0.6);
+	border-radius: 4px / 6.7px;
+}
+
+.circular {
+	height: 1.2em;
+	border-radius: 50%;
+}
+
+.rounded {
+	height: 1.2em;
+	border-radius: 4px;
+}
+
+.rectangular {
+	height: 1.2em;
+}
+
+@keyframes pulse {
+	0% {
+		opacity: 0.5;
+	}
+	50% {
+		opacity: 0.8;
+	}
+	100% {
+		opacity: 0.5;
+	}
+}

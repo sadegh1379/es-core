@@ -1,0 +1,40 @@
+.dot_loader {
+    height: 17px;
+    border-radius: 100%;
+    position: relative;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.dot_loader>div {
+    display: inline-flex;
+    width: 8px;
+    height: 8px;
+    border-radius: 100%;
+    background-color: #000;
+    margin: 0 2px;
+    animation: anm-bl-3-move 1.3s infinite ease-in-out both;
+}
+
+.dot_loader>div:nth-child(1) {
+    animation-delay: -320ms;
+}
+
+.dot_loader>div:nth-child(2) {
+    animation-delay: -160ms;
+}
+
+@keyframes anm-bl-3-move {
+
+    0%,
+    80%,
+    100% {
+        transform: scale(0);
+    }
+
+    40% {
+        transform: scale(1);
+    }
+}

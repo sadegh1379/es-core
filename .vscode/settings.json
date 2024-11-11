@@ -1,0 +1,10 @@
+{
+	"cSpell.words": ["deactive", "IFAQ", "leaderboard", "usdsm"],
+	"i18n-ally.namespace": true,
+	"i18n-ally.editor.preferEditor": true,
+	"i18n-ally.keystyle": "nested",
+	"i18n-ally.localesPaths": ["src/locales"],
+	"i18n-ally.extract.ignored": [
+		"https://coinlocally.com/${language}/${item.link}${\n\t\t\t\t\t\t\t\tselectedCurrency ? `?pair=USDT-${selectedCurrency}` : ''\n\t\t\t\t\t\t\t}"
+	]
+}

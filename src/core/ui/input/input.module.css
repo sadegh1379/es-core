@@ -1,0 +1,147 @@
+:root {
+    --color-input-filled-bg: #f7f7f7;
+    --color-input-outline-border: #e1e3e5;
+    --color-input-placeholder-filled-text: #bebec0;
+    --color-input-placeholder-outline-text: #bebec0;
+    --color-input-text-color: #000000;
+    --color-input-error-text-border: #e51717;
+}
+
+[data-theme='dark'] {
+    --color-input-filled-bg: #3a3a3c;
+    --color-input-outline-border: #38383a;
+    --color-input-placeholder-filled-text: #939393;
+    --color-input-placeholder-outline-text: #464649;
+    --color-input-text-color: #ffffff;
+    --color-input-error-text-border: #ff6961;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+
+.container * {
+    font-family: 'Product Sans';
+}
+
+.input {
+    padding: 10px 16px 8px;
+    border-radius: 4px;
+    outline: none;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 20px;
+    border: none;
+    color: var(--color-input-text-color);
+    background: transparent;
+    min-width: 60px;
+    grid-column: 2;
+}
+
+.input_container {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    width: 100%;
+    border-radius: 4px;
+    position: relative;
+}
+
+.border_container {
+    position: absolute;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.container>.label_container {
+    font-weight: 300;
+    font-size: 0.875rem;
+    line-height: 20px;
+    margin-bottom: 4px;
+    color: var(--color-input-text-color);
+    cursor: pointer;
+}
+
+.input::placeholder {
+    font-weight: 300;
+    font-size: 0.875rem;
+    line-height: 20px;
+}
+
+.input::-webkit-outer-spin-button,
+.input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+.input_filled .input_container {
+    background: var(--color-input-filled-bg);
+}
+
+.input_filled .input::placeholder {
+    color: var(--color-input-placeholder-filled-text);
+}
+
+.input_outline .input_container {
+    background: transparent;
+}
+
+.input_outline .border_container {
+    border: 1px solid var(--color-input-outline-border);
+}
+
+.input_outline .input::placeholder {
+    color: var(--color-input-placeholder-outline-text);
+}
+
+.input:hover~.border_container,
+.input:focus-visible~.border_container {
+    border-color: #fcd535;
+}
+
+.error_input .border_container {
+    border-color: var(--color-input-error-text-border);
+}
+
+.error_container {
+    font-weight: 400;
+    line-height: 15px;
+    font-size: 0.75rem;
+    color: var(--color-input-error-text-border);
+    margin-top: 4px;
+}
+
+.input_container>.left_icon_container {
+    padding-left: 16px;
+    color: var(--color-input-text-color);
+    white-space: nowrap;
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 17px;
+}
+
+.input_container>.action_container {
+    padding: 1px 16px 0 4px;
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 17px;
+    color: var(--color-input-text-color);
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.loader>div {
+    background-color: var(--color-input-text-color) !important;
+}

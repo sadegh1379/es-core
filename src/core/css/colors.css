@@ -1,0 +1,39 @@
+:root {
+	/* background-dark-base */
+	--color-primary-background-dark-base: #000000;
+	--color-secondary-background-dark-base: #18181a;
+	--color-tertiary-background-dark-base: #272729;
+	/* background-dark-elevated */
+	--color-primary-background-dark-elevated: #1c1c1e;
+	--color-secondary-background-dark-elevated: #2c2c2e;
+	--color-tertiary-background-dark-elevated: #3a3a3c;
+	/* background-light */
+	--color-primary-background-light-base: #ffffff;
+	--color-secondary-background-light-base: #f7f7f7;
+	/* text-dark */
+	--color-primary-text-dark: #ffffff;
+	--color-secondary-text-dark: #939393;
+	--color-tertiary-text-dark: #464649;
+	--color-quaternary-text-dark: #2a2a2c;
+	/* text-light */
+	--color-primary-text-light: #000000;
+	--color-secondary-text-light: #6d6d70;
+	--color-tertiary-text-light: #bebec0;
+	--color-quaternary-text-light: #d4d4d5;
+	/* separator-light */
+	--color-primary-separator-light: #e1e3e5;
+	/* separator-dark */
+	--color-primary-separator-dark: #38383a;
+	/* success-light */
+	--color-success-text-light: #009b79;
+	--color-success-container-light: #d7f5e3;
+	/* success-dark */
+	--color-success-text-dark: #06d6a9;
+	--color-success-container-dark: #1f3c35;
+	/* error-light */
+	--color-error-text-light: #e51717;
+	--color-error-container-light: #ffe3e3;
+	/* error-dark */
+	--color-error-text-dark: #ff6961;
+	--color-error-container-dark: #4c2020;
+}

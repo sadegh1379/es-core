@@ -1,0 +1,6 @@
+.selectedInputClassName {
+	border-right: 1px solid var(--select-search-border-right);
+}
+div.main_class_name {
+	position: static;
+}

@@ -1,0 +1,61 @@
+:root {
+	--color-core-change-lng-color: #6d6d70;
+	--color-core-change-lng-black-white: #000;
+	--color-core-change-lng-bg: #f7f7f7;
+}
+
+[data-theme='dark'] {
+	--color-core-change-lng-color: #939393;
+	--color-core-change-lng-black-white: #fff;
+	--color-core-change-lng-bg: #3a3a3c;
+}
+
+.container {
+	position: absolute;
+}
+
+.container * {
+	font-family: 'Product Sans';
+}
+
+.body {
+	padding: 0 24px 24px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+	gap: 8px;
+	box-sizing: border-box;
+}
+
+.language {
+	height: 40px;
+	display: flex;
+	align-items: center;
+	color: var(--color-core-change-lng-color);
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 19px;
+	cursor: pointer;
+	border-radius: 4px;
+	padding: 0 20px;
+}
+
+.language.active {
+	color: var(--color-core-change-lng-black-white);
+	font-weight: 500;
+	background: var(--color-core-change-lng-bg);
+}
+
+@media (min-width: 430px) {
+	.body {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr;
+	}
+}
+
+@media (min-width: 518px) {
+	.body {
+		width: 484px;
+	}
+}

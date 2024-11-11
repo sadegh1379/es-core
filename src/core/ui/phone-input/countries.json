@@ -1,0 +1,1234 @@
+{
+	"countries": [
+		{
+			"mainTxt": "Afghanistan",
+			"secondaryTxt": "+93",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AF.png"
+		},
+		{
+			"mainTxt": "Aland Islands",
+			"secondaryTxt": "+358",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AX.png"
+		},
+		{
+			"mainTxt": "Albania",
+			"secondaryTxt": "+355",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AL.png"
+		},
+		{
+			"mainTxt": "Algeria",
+			"secondaryTxt": "+213",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/DZ.png"
+		},
+		{
+			"mainTxt": "American Samoa",
+			"secondaryTxt": "+1684",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AS.png"
+		},
+		{
+			"mainTxt": "Andorra",
+			"secondaryTxt": "+376",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AD.png"
+		},
+		{
+			"mainTxt": "Angola",
+			"secondaryTxt": "+244",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AO.png"
+		},
+		{
+			"mainTxt": "Anguilla",
+			"secondaryTxt": "+1264",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AI.png"
+		},
+		{
+			"mainTxt": "Antarctica",
+			"secondaryTxt": "+672",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AQ.png"
+		},
+		{
+			"mainTxt": "Antigua and Barbuda",
+			"secondaryTxt": "+1268",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AG.png"
+		},
+		{
+			"mainTxt": "Argentina",
+			"secondaryTxt": "+54",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AR.png"
+		},
+		{
+			"mainTxt": "Armenia",
+			"secondaryTxt": "+374",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AM.png"
+		},
+		{
+			"mainTxt": "Aruba",
+			"secondaryTxt": "+297",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AW.png"
+		},
+		{
+			"mainTxt": "Ascension Island",
+			"secondaryTxt": "+247",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AC.png"
+		},
+		{
+			"mainTxt": "Australia",
+			"secondaryTxt": "+61",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AU.png"
+		},
+		{
+			"mainTxt": "Austria",
+			"secondaryTxt": "+43",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AT.png"
+		},
+		{
+			"mainTxt": "Azerbaijan",
+			"secondaryTxt": "+994",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AZ.png"
+		},
+		{
+			"mainTxt": "Bahamas",
+			"secondaryTxt": "+1242",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BS.png"
+		},
+		{
+			"mainTxt": "Bahrain",
+			"secondaryTxt": "+973",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BH.png"
+		},
+		{
+			"mainTxt": "Bangladesh",
+			"secondaryTxt": "+880",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BD.png"
+		},
+		{
+			"mainTxt": "Barbados",
+			"secondaryTxt": "+1246",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BB.png"
+		},
+		{
+			"mainTxt": "Belarus",
+			"secondaryTxt": "+375",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BY.png"
+		},
+		{
+			"mainTxt": "Belgium",
+			"secondaryTxt": "+32",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BE.png"
+		},
+		{
+			"mainTxt": "Belize",
+			"secondaryTxt": "+501",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BZ.png"
+		},
+		{
+			"mainTxt": "Benin",
+			"secondaryTxt": "+229",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BJ.png"
+		},
+		{
+			"mainTxt": "Bermuda",
+			"secondaryTxt": "+1441",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BM.png"
+		},
+		{
+			"mainTxt": "Bhutan",
+			"secondaryTxt": "+975",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BT.png"
+		},
+		{
+			"mainTxt": "Bolivia",
+			"secondaryTxt": "+591",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BO.png"
+		},
+		{
+			"mainTxt": "Bosnia and Herzegovina",
+			"secondaryTxt": "+387",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BA.png"
+		},
+		{
+			"mainTxt": "Botswana",
+			"secondaryTxt": "+267",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BW.png"
+		},
+		{
+			"mainTxt": "Brazil",
+			"secondaryTxt": "+55",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BR.png"
+		},
+		{
+			"mainTxt": "British Indian Ocean Territory",
+			"secondaryTxt": "+246",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IO.png"
+		},
+		{
+			"mainTxt": "Brunei Darussalam",
+			"secondaryTxt": "+673",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BN.png"
+		},
+		{
+			"mainTxt": "Bulgaria",
+			"secondaryTxt": "+359",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BG.png"
+		},
+		{
+			"mainTxt": "Burkina Faso",
+			"secondaryTxt": "+226",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BF.png"
+		},
+		{
+			"mainTxt": "Burundi",
+			"secondaryTxt": "+257",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BI.png"
+		},
+		{
+			"mainTxt": "Cambodia",
+			"secondaryTxt": "+855",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KH.png"
+		},
+		{
+			"mainTxt": "Cameroon",
+			"secondaryTxt": "+237",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CM.png"
+		},
+		{
+			"mainTxt": "Canada",
+			"secondaryTxt": "+1",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CA.png"
+		},
+		{
+			"mainTxt": "Cape Verde",
+			"secondaryTxt": "+238",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CV.png"
+		},
+		{
+			"mainTxt": "Cayman Islands",
+			"secondaryTxt": "+1345",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KY.png"
+		},
+		{
+			"mainTxt": "Central African Republic",
+			"secondaryTxt": "+236",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CF.png"
+		},
+		{
+			"mainTxt": "Chad",
+			"secondaryTxt": "+235",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TD.png"
+		},
+		{
+			"mainTxt": "Chile",
+			"secondaryTxt": "+56",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CL.png"
+		},
+		{
+			"mainTxt": "China",
+			"secondaryTxt": "+86",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CN.png"
+		},
+		{
+			"mainTxt": "Christmas Island",
+			"secondaryTxt": "+61",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CX.png"
+		},
+		{
+			"mainTxt": "Cocos (Keeling) Islands",
+			"secondaryTxt": "+61",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CC.png"
+		},
+		{
+			"mainTxt": "Colombia",
+			"secondaryTxt": "+57",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CO.png"
+		},
+		{
+			"mainTxt": "Comoros",
+			"secondaryTxt": "+269",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KM.png"
+		},
+		{
+			"mainTxt": "Congo",
+			"secondaryTxt": "+242",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CG.png"
+		},
+		{
+			"mainTxt": "Cook Islands",
+			"secondaryTxt": "+682",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CK.png"
+		},
+		{
+			"mainTxt": "Costa Rica",
+			"secondaryTxt": "+506",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CR.png"
+		},
+		{
+			"mainTxt": "Croatia",
+			"secondaryTxt": "+385",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/HR.png"
+		},
+		{
+			"mainTxt": "Cuba",
+			"secondaryTxt": "+53",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CU.png"
+		},
+		{
+			"mainTxt": "Cyprus",
+			"secondaryTxt": "+357",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CY.png"
+		},
+		{
+			"mainTxt": "Czech Republic",
+			"secondaryTxt": "+420",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CZ.png"
+		},
+		{
+			"mainTxt": "Democratic Republic of the Congo",
+			"secondaryTxt": "+243",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CD.png"
+		},
+		{
+			"mainTxt": "Denmark",
+			"secondaryTxt": "+45",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/DK.png"
+		},
+		{
+			"mainTxt": "Djibouti",
+			"secondaryTxt": "+253",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/DJ.png"
+		},
+		{
+			"mainTxt": "Dominica",
+			"secondaryTxt": "+1767",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/DM.png"
+		},
+		{
+			"mainTxt": "Dominican Republic",
+			"secondaryTxt": "+1849",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/DO.png"
+		},
+		{
+			"mainTxt": "Ecuador",
+			"secondaryTxt": "+593",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/EC.png"
+		},
+		{
+			"mainTxt": "Egypt",
+			"secondaryTxt": "+20",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/EG.png"
+		},
+		{
+			"mainTxt": "El Salvador",
+			"secondaryTxt": "+503",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SV.png"
+		},
+		{
+			"mainTxt": "Equatorial Guinea",
+			"secondaryTxt": "+240",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GQ.png"
+		},
+		{
+			"mainTxt": "Eritrea",
+			"secondaryTxt": "+291",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ER.png"
+		},
+		{
+			"mainTxt": "Estonia",
+			"secondaryTxt": "+372",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/EE.png"
+		},
+		{
+			"mainTxt": "Eswatini",
+			"secondaryTxt": "+268",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SZ.png"
+		},
+		{
+			"mainTxt": "Ethiopia",
+			"secondaryTxt": "+251",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ET.png"
+		},
+		{
+			"mainTxt": "Falkland Islands (Malvinas)",
+			"secondaryTxt": "+500",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/FK.png"
+		},
+		{
+			"mainTxt": "Faroe Islands",
+			"secondaryTxt": "+298",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/FO.png"
+		},
+		{
+			"mainTxt": "Fiji",
+			"secondaryTxt": "+679",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/FJ.png"
+		},
+		{
+			"mainTxt": "Finland",
+			"secondaryTxt": "+358",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/FI.png"
+		},
+		{
+			"mainTxt": "France",
+			"secondaryTxt": "+33",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/FR.png"
+		},
+		{
+			"mainTxt": "French Guiana",
+			"secondaryTxt": "+594",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GF.png"
+		},
+		{
+			"mainTxt": "French Polynesia",
+			"secondaryTxt": "+689",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PF.png"
+		},
+		{
+			"mainTxt": "Gabon",
+			"secondaryTxt": "+241",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GA.png"
+		},
+		{
+			"mainTxt": "Gambia",
+			"secondaryTxt": "+220",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GM.png"
+		},
+		{
+			"mainTxt": "Georgia",
+			"secondaryTxt": "+995",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GE.png"
+		},
+		{
+			"mainTxt": "Germany",
+			"secondaryTxt": "+49",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/DE.png"
+		},
+		{
+			"mainTxt": "Ghana",
+			"secondaryTxt": "+233",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GH.png"
+		},
+		{
+			"mainTxt": "Gibraltar",
+			"secondaryTxt": "+350",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GI.png"
+		},
+		{
+			"mainTxt": "Greece",
+			"secondaryTxt": "+30",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GR.png"
+		},
+		{
+			"mainTxt": "Greenland",
+			"secondaryTxt": "+299",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GL.png"
+		},
+		{
+			"mainTxt": "Grenada",
+			"secondaryTxt": "+1473",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GD.png"
+		},
+		{
+			"mainTxt": "Guadeloupe",
+			"secondaryTxt": "+590",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GP.png"
+		},
+		{
+			"mainTxt": "Guam",
+			"secondaryTxt": "+1671",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GU.png"
+		},
+		{
+			"mainTxt": "Guatemala",
+			"secondaryTxt": "+502",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GT.png"
+		},
+		{
+			"mainTxt": "Guernsey",
+			"secondaryTxt": "+44",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GG.png"
+		},
+		{
+			"mainTxt": "Guinea",
+			"secondaryTxt": "+224",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GN.png"
+		},
+		{
+			"mainTxt": "Guinea-Bissau",
+			"secondaryTxt": "+245",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GW.png"
+		},
+		{
+			"mainTxt": "Guyana",
+			"secondaryTxt": "+592",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GY.png"
+		},
+		{
+			"mainTxt": "Haiti",
+			"secondaryTxt": "+509",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/HT.png"
+		},
+		{
+			"mainTxt": "Holy See (Vatican City State)",
+			"secondaryTxt": "+379",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VA.png"
+		},
+		{
+			"mainTxt": "Honduras",
+			"secondaryTxt": "+504",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/HN.png"
+		},
+		{
+			"mainTxt": "Hong Kong",
+			"secondaryTxt": "+852",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/HK.png"
+		},
+		{
+			"mainTxt": "Hungary",
+			"secondaryTxt": "+36",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/HU.png"
+		},
+		{
+			"mainTxt": "Iceland",
+			"secondaryTxt": "+354",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IS.png"
+		},
+		{
+			"mainTxt": "India",
+			"secondaryTxt": "+91",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IN.png"
+		},
+		{
+			"mainTxt": "Indonesia",
+			"secondaryTxt": "+62",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ID.png"
+		},
+		{
+			"mainTxt": "Iran",
+			"secondaryTxt": "+98",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IR.png"
+		},
+		{
+			"mainTxt": "Iraq",
+			"secondaryTxt": "+964",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IQ.png"
+		},
+		{
+			"mainTxt": "Ireland",
+			"secondaryTxt": "+353",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IE.png"
+		},
+		{
+			"mainTxt": "Isle of Man",
+			"secondaryTxt": "+44",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IM.png"
+		},
+		{
+			"mainTxt": "Israel",
+			"secondaryTxt": "+972",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IL.png"
+		},
+		{
+			"mainTxt": "Italy",
+			"secondaryTxt": "+39",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/IT.png"
+		},
+		{
+			"mainTxt": "Ivory Coast / Cote d'Ivoire",
+			"secondaryTxt": "+225",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CI.png"
+		},
+		{
+			"mainTxt": "Jamaica",
+			"secondaryTxt": "+1876",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/JM.png"
+		},
+		{
+			"mainTxt": "Japan",
+			"secondaryTxt": "+81",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/JP.png"
+		},
+		{
+			"mainTxt": "Jersey",
+			"secondaryTxt": "+44",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/JE.png"
+		},
+		{
+			"mainTxt": "Jordan",
+			"secondaryTxt": "+962",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/JO.png"
+		},
+		{
+			"mainTxt": "Kazakhstan",
+			"secondaryTxt": "+77",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KZ.png"
+		},
+		{
+			"mainTxt": "Kenya",
+			"secondaryTxt": "+254",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KE.png"
+		},
+		{
+			"mainTxt": "Kiribati",
+			"secondaryTxt": "+686",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KI.png"
+		},
+		{
+			"mainTxt": "Korea, Democratic People's Republic of Korea",
+			"secondaryTxt": "+850",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KP.png"
+		},
+		{
+			"mainTxt": "Korea, Republic of South Korea",
+			"secondaryTxt": "+82",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KR.png"
+		},
+		{
+			"mainTxt": "Kosovo",
+			"secondaryTxt": "+383",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/XK.png"
+		},
+		{
+			"mainTxt": "Kuwait",
+			"secondaryTxt": "+965",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KW.png"
+		},
+		{
+			"mainTxt": "Kyrgyzstan",
+			"secondaryTxt": "+996",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KG.png"
+		},
+		{
+			"mainTxt": "Laos",
+			"secondaryTxt": "+856",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LA.png"
+		},
+		{
+			"mainTxt": "Latvia",
+			"secondaryTxt": "+371",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LV.png"
+		},
+		{
+			"mainTxt": "Lebanon",
+			"secondaryTxt": "+961",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LB.png"
+		},
+		{
+			"mainTxt": "Lesotho",
+			"secondaryTxt": "+266",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LS.png"
+		},
+		{
+			"mainTxt": "Liberia",
+			"secondaryTxt": "+231",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LR.png"
+		},
+		{
+			"mainTxt": "Libya",
+			"secondaryTxt": "+218",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LY.png"
+		},
+		{
+			"mainTxt": "Liechtenstein",
+			"secondaryTxt": "+423",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LI.png"
+		},
+		{
+			"mainTxt": "Lithuania",
+			"secondaryTxt": "+370",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LT.png"
+		},
+		{
+			"mainTxt": "Luxembourg",
+			"secondaryTxt": "+352",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LU.png"
+		},
+		{
+			"mainTxt": "Macau",
+			"secondaryTxt": "+853",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MO.png"
+		},
+		{
+			"mainTxt": "Madagascar",
+			"secondaryTxt": "+261",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MG.png"
+		},
+		{
+			"mainTxt": "Malawi",
+			"secondaryTxt": "+265",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MW.png"
+		},
+		{
+			"mainTxt": "Malaysia",
+			"secondaryTxt": "+60",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MY.png"
+		},
+		{
+			"mainTxt": "Maldives",
+			"secondaryTxt": "+960",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MV.png"
+		},
+		{
+			"mainTxt": "Mali",
+			"secondaryTxt": "+223",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ML.png"
+		},
+		{
+			"mainTxt": "Malta",
+			"secondaryTxt": "+356",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MT.png"
+		},
+		{
+			"mainTxt": "Marshall Islands",
+			"secondaryTxt": "+692",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MH.png"
+		},
+		{
+			"mainTxt": "Martinique",
+			"secondaryTxt": "+596",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MQ.png"
+		},
+		{
+			"mainTxt": "Mauritania",
+			"secondaryTxt": "+222",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MR.png"
+		},
+		{
+			"mainTxt": "Mauritius",
+			"secondaryTxt": "+230",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MU.png"
+		},
+		{
+			"mainTxt": "Mayotte",
+			"secondaryTxt": "+262",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/YT.png"
+		},
+		{
+			"mainTxt": "Mexico",
+			"secondaryTxt": "+52",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MX.png"
+		},
+		{
+			"mainTxt": "Micronesia, Federated States of Micronesia",
+			"secondaryTxt": "+691",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/FM.png"
+		},
+		{
+			"mainTxt": "Moldova",
+			"secondaryTxt": "+373",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MD.png"
+		},
+		{
+			"mainTxt": "Monaco",
+			"secondaryTxt": "+377",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MC.png"
+		},
+		{
+			"mainTxt": "Mongolia",
+			"secondaryTxt": "+976",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MN.png"
+		},
+		{
+			"mainTxt": "Montenegro",
+			"secondaryTxt": "+382",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ME.png"
+		},
+		{
+			"mainTxt": "Montserrat",
+			"secondaryTxt": "+1664",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MS.png"
+		},
+		{
+			"mainTxt": "Morocco",
+			"secondaryTxt": "+212",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MA.png"
+		},
+		{
+			"mainTxt": "Mozambique",
+			"secondaryTxt": "+258",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MZ.png"
+		},
+		{
+			"mainTxt": "Myanmar",
+			"secondaryTxt": "+95",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MM.png"
+		},
+		{
+			"mainTxt": "Namibia",
+			"secondaryTxt": "+264",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NA.png"
+		},
+		{
+			"mainTxt": "Nauru",
+			"secondaryTxt": "+674",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NR.png"
+		},
+		{
+			"mainTxt": "Nepal",
+			"secondaryTxt": "+977",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NP.png"
+		},
+		{
+			"mainTxt": "Netherlands",
+			"secondaryTxt": "+31",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NL.png"
+		},
+		{
+			"mainTxt": "Netherlands Antilles",
+			"secondaryTxt": "+599",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AN.png"
+		},
+		{
+			"mainTxt": "New Caledonia",
+			"secondaryTxt": "+687",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NC.png"
+		},
+		{
+			"mainTxt": "New Zealand",
+			"secondaryTxt": "+64",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NZ.png"
+		},
+		{
+			"mainTxt": "Nicaragua",
+			"secondaryTxt": "+505",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NI.png"
+		},
+		{
+			"mainTxt": "Niger",
+			"secondaryTxt": "+227",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NE.png"
+		},
+		{
+			"mainTxt": "Nigeria",
+			"secondaryTxt": "+234",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NG.png"
+		},
+		{
+			"mainTxt": "Niue",
+			"secondaryTxt": "+683",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NU.png"
+		},
+		{
+			"mainTxt": "Norfolk Island",
+			"secondaryTxt": "+672",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NF.png"
+		},
+		{
+			"mainTxt": "North Macedonia",
+			"secondaryTxt": "+389",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MK.png"
+		},
+		{
+			"mainTxt": "Northern Mariana Islands",
+			"secondaryTxt": "+1670",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MP.png"
+		},
+		{
+			"mainTxt": "Norway",
+			"secondaryTxt": "+47",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/NO.png"
+		},
+		{
+			"mainTxt": "Oman",
+			"secondaryTxt": "+968",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/OM.png"
+		},
+		{
+			"mainTxt": "Pakistan",
+			"secondaryTxt": "+92",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PK.png"
+		},
+		{
+			"mainTxt": "Palau",
+			"secondaryTxt": "+680",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PW.png"
+		},
+		{
+			"mainTxt": "Palestine",
+			"secondaryTxt": "+970",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PS.png"
+		},
+		{
+			"mainTxt": "Panama",
+			"secondaryTxt": "+507",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PA.png"
+		},
+		{
+			"mainTxt": "Papua New Guinea",
+			"secondaryTxt": "+675",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PG.png"
+		},
+		{
+			"mainTxt": "Paraguay",
+			"secondaryTxt": "+595",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PY.png"
+		},
+		{
+			"mainTxt": "Peru",
+			"secondaryTxt": "+51",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PE.png"
+		},
+		{
+			"mainTxt": "Philippines",
+			"secondaryTxt": "+63",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PH.png"
+		},
+		{
+			"mainTxt": "Pitcairn",
+			"secondaryTxt": "+872",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PN.png"
+		},
+		{
+			"mainTxt": "Poland",
+			"secondaryTxt": "+48",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PL.png"
+		},
+		{
+			"mainTxt": "Portugal",
+			"secondaryTxt": "+351",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PT.png"
+		},
+		{
+			"mainTxt": "Puerto Rico",
+			"secondaryTxt": "+1939",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PR.png"
+		},
+		{
+			"mainTxt": "Qatar",
+			"secondaryTxt": "+974",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/QA.png"
+		},
+		{
+			"mainTxt": "Reunion",
+			"secondaryTxt": "+262",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/RE.png"
+		},
+		{
+			"mainTxt": "Romania",
+			"secondaryTxt": "+40",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/RO.png"
+		},
+		{
+			"mainTxt": "Russia",
+			"secondaryTxt": "+7",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/RU.png"
+		},
+		{
+			"mainTxt": "Rwanda",
+			"secondaryTxt": "+250",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/RW.png"
+		},
+		{
+			"mainTxt": "Saint Barthelemy",
+			"secondaryTxt": "+590",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/BL.png"
+		},
+		{
+			"mainTxt": "Saint Helena, Ascension and Tristan Da Cunha",
+			"secondaryTxt": "+290",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SH.png"
+		},
+		{
+			"mainTxt": "Saint Kitts and Nevis",
+			"secondaryTxt": "+1869",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/KN.png"
+		},
+		{
+			"mainTxt": "Saint Lucia",
+			"secondaryTxt": "+1758",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LC.png"
+		},
+		{
+			"mainTxt": "Saint Martin",
+			"secondaryTxt": "+590",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/MF.png"
+		},
+		{
+			"mainTxt": "Saint Pierre and Miquelon",
+			"secondaryTxt": "+508",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/PM.png"
+		},
+		{
+			"mainTxt": "Saint Vincent and the Grenadines",
+			"secondaryTxt": "+1784",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VC.png"
+		},
+		{
+			"mainTxt": "Samoa",
+			"secondaryTxt": "+685",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/WS.png"
+		},
+		{
+			"mainTxt": "San Marino",
+			"secondaryTxt": "+378",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SM.png"
+		},
+		{
+			"mainTxt": "Sao Tome and Principe",
+			"secondaryTxt": "+239",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ST.png"
+		},
+		{
+			"mainTxt": "Saudi Arabia",
+			"secondaryTxt": "+966",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SA.png"
+		},
+		{
+			"mainTxt": "Senegal",
+			"secondaryTxt": "+221",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SN.png"
+		},
+		{
+			"mainTxt": "Serbia",
+			"secondaryTxt": "+381",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/RS.png"
+		},
+		{
+			"mainTxt": "Seychelles",
+			"secondaryTxt": "+248",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SC.png"
+		},
+		{
+			"mainTxt": "Sierra Leone",
+			"secondaryTxt": "+232",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SL.png"
+		},
+		{
+			"mainTxt": "Singapore",
+			"secondaryTxt": "+65",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SG.png"
+		},
+		{
+			"mainTxt": "Sint Maarten",
+			"secondaryTxt": "+1721",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SX.png"
+		},
+		{
+			"mainTxt": "Slovakia",
+			"secondaryTxt": "+421",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SK.png"
+		},
+		{
+			"mainTxt": "Slovenia",
+			"secondaryTxt": "+386",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SI.png"
+		},
+		{
+			"mainTxt": "Solomon Islands",
+			"secondaryTxt": "+677",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SB.png"
+		},
+		{
+			"mainTxt": "Somalia",
+			"secondaryTxt": "+252",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SO.png"
+		},
+		{
+			"mainTxt": "South Africa",
+			"secondaryTxt": "+27",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ZA.png"
+		},
+		{
+			"mainTxt": "South Georgia and the South Sandwich Islands",
+			"secondaryTxt": "+500",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GS.png"
+		},
+		{
+			"mainTxt": "South Sudan",
+			"secondaryTxt": "+211",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SS.png"
+		},
+		{
+			"mainTxt": "Spain",
+			"secondaryTxt": "+34",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ES.png"
+		},
+		{
+			"mainTxt": "Sri Lanka",
+			"secondaryTxt": "+94",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/LK.png"
+		},
+		{
+			"mainTxt": "Sudan",
+			"secondaryTxt": "+249",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SD.png"
+		},
+		{
+			"mainTxt": "SurimainTxt",
+			"secondaryTxt": "+597",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SR.png"
+		},
+		{
+			"mainTxt": "Svalbard and Jan Mayen",
+			"secondaryTxt": "+47",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SJ.png"
+		},
+		{
+			"mainTxt": "Sweden",
+			"secondaryTxt": "+46",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SE.png"
+		},
+		{
+			"mainTxt": "Switzerland",
+			"secondaryTxt": "+41",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/CH.png"
+		},
+		{
+			"mainTxt": "Syrian Arab Republic",
+			"secondaryTxt": "+963",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/SY.png"
+		},
+		{
+			"mainTxt": "Taiwan",
+			"secondaryTxt": "+886",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TW.png"
+		},
+		{
+			"mainTxt": "Tajikistan",
+			"secondaryTxt": "+992",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TJ.png"
+		},
+		{
+			"mainTxt": "Tanzania, United Republic of Tanzania",
+			"secondaryTxt": "+255",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TZ.png"
+		},
+		{
+			"mainTxt": "Thailand",
+			"secondaryTxt": "+66",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TH.png"
+		},
+		{
+			"mainTxt": "Timor-Leste",
+			"secondaryTxt": "+670",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TL.png"
+		},
+		{
+			"mainTxt": "Togo",
+			"secondaryTxt": "+228",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TG.png"
+		},
+		{
+			"mainTxt": "Tokelau",
+			"secondaryTxt": "+690",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TK.png"
+		},
+		{
+			"mainTxt": "Tonga",
+			"secondaryTxt": "+676",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TO.png"
+		},
+		{
+			"mainTxt": "Trinidad and Tobago",
+			"secondaryTxt": "+1868",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TT.png"
+		},
+		{
+			"mainTxt": "Tunisia",
+			"secondaryTxt": "+216",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TN.png"
+		},
+		{
+			"mainTxt": "Turkey",
+			"secondaryTxt": "+90",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TR.png"
+		},
+		{
+			"mainTxt": "Turkmenistan",
+			"secondaryTxt": "+993",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TM.png"
+		},
+		{
+			"mainTxt": "Turks and Caicos Islands",
+			"secondaryTxt": "+1649",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TC.png"
+		},
+		{
+			"mainTxt": "Tuvalu",
+			"secondaryTxt": "+688",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/TV.png"
+		},
+		{
+			"mainTxt": "Uganda",
+			"secondaryTxt": "+256",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/UG.png"
+		},
+		{
+			"mainTxt": "Ukraine",
+			"secondaryTxt": "+380",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/UA.png"
+		},
+		{
+			"mainTxt": "United Arab Emirates",
+			"secondaryTxt": "+971",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/AE.png"
+		},
+		{
+			"mainTxt": "United Kingdom",
+			"secondaryTxt": "+44",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/GB.png"
+		},
+		{
+			"mainTxt": "United States",
+			"secondaryTxt": "+1",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/US.png"
+		},
+		{
+			"mainTxt": "United States Minor Outlying Islands",
+			"secondaryTxt": "+246",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/UMI.png"
+		},
+		{
+			"mainTxt": "Uruguay",
+			"secondaryTxt": "+598",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/UY.png"
+		},
+		{
+			"mainTxt": "Uzbekistan",
+			"secondaryTxt": "+998",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/UZ.png"
+		},
+		{
+			"mainTxt": "Vanuatu",
+			"secondaryTxt": "+678",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VU.png"
+		},
+		{
+			"mainTxt": "Venezuela, Bolivarian Republic of Venezuela",
+			"secondaryTxt": "+58",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VE.png"
+		},
+		{
+			"mainTxt": "Vietnam",
+			"secondaryTxt": "+84",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VN.png"
+		},
+		{
+			"mainTxt": "Virgin Islands, British",
+			"secondaryTxt": "+1284",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VG.png"
+		},
+		{
+			"mainTxt": "Virgin Islands, U.S.",
+			"secondaryTxt": "+1340",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/VI.png"
+		},
+		{
+			"mainTxt": "Wallis and Futuna",
+			"secondaryTxt": "+681",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/WF.png"
+		},
+		{
+			"mainTxt": "Yemen",
+			"secondaryTxt": "+967",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/YE.png"
+		},
+		{
+			"mainTxt": "Zambia",
+			"secondaryTxt": "+260",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ZM.png"
+		},
+		{
+			"mainTxt": "Zimbabwe",
+			"secondaryTxt": "+263",
+			"logoUrl": "https://clycpublic.ams3.cdn.digitaloceanspaces.com/countries/ZW.png"
+		}
+	]
+}

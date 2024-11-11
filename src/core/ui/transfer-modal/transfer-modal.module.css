@@ -1,0 +1,107 @@
+:root {
+	--color-transfer-txt-primary: #000000;
+	--color-transfer-txt-secondary: #6d6d70;
+	--color-transfer-border: #e1e3e5;
+	--color-transfer-modal-bg: #ffffff;
+}
+
+[data-theme='dark'] {
+	--color-transfer-txt-primary: #ffffff;
+	--color-transfer-txt-secondary: #939393;
+	--color-transfer-border: #38383a;
+	--color-transfer-modal-bg: #1c1c1e;
+}
+
+.transfer_container {
+	padding: 0 24px 24px;
+}
+
+.modal_container > div:last-of-type {
+	background: var(--color-transfer-modal-bg);
+	width: clamp(200px, 100%, 440px);
+}
+
+.transfer_type_container {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+	font-weight: 500;
+	font-size: 0.875rem;
+	line-height: 20px;
+}
+
+.transfer_type_container > svg {
+	width: 16px;
+	height: 16px;
+}
+
+.from_select {
+	margin-bottom: 12px;
+}
+
+.from_select > div:last-of-type > div:last-of-type > div:hover {
+	color: var(--color-transfer-txt-primary);
+}
+
+.to_select > div:last-of-type > div:last-of-type > div:hover {
+	color: var(--color-transfer-txt-primary);
+}
+
+.to_select > div:first-of-type {
+	width: min-content;
+}
+
+.change_side_container {
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: -10px;
+	padding-right: 16px;
+	color: var(--color-transfer-txt-primary);
+	cursor: pointer;
+}
+
+.to_select,
+.coin_select {
+	margin-bottom: 16px;
+}
+
+.amount_input {
+	width: 100% !important;
+	margin-bottom: 16px;
+}
+
+.transfer_input_label {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.transfer_balance {
+	display: flex;
+	gap: 4px;
+	font-weight: 300;
+	font-size: 0.875rem;
+	line-height: 20px;
+	color: var(--color-transfer-txt-secondary);
+}
+
+.transfer_balance span {
+	font-weight: 500;
+	color: var(--color-transfer-txt-primary);
+}
+
+.transfer_note {
+	padding: 14px 16px;
+	border-radius: 4px;
+	border: 1px dashed var(--color-transfer-border);
+	font-weight: 400;
+	font-size: 0.75rem;
+	line-height: 16px;
+	margin: 0 0 24px;
+	color: var(--color-transfer-txt-secondary);
+}
+
+.transfer_action {
+	display: flex;
+	justify-content: flex-end;
+}
