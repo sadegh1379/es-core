@@ -1,6 +1,6 @@
 {
   "name": "@sadegh1379/es-core",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -18,8 +18,6 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "antd": "^5.12.8",
-    "antd-mobile": "^5.34.0",
     "i18next": "^23.10.0",
     "i18next-browser-languagedetector": "^7.2.0",
     "react-i18next": "^14.0.5",

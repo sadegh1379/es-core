@@ -1,1 +1,1 @@
-export { default as ClyCoreConfig } from './cly-core.config';
+export { default as PackageConfig } from './package.config';
