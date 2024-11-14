@@ -1,8 +1,8 @@
-import { ClyCoreConfig } from 'core';
+import { PackageConfig } from 'core';
 import { forwardRef } from 'react';
 import { LinkProps } from 'react-router-dom';
 import { Link as ReactLink } from 'react-router-dom';
-const { LANGUAGE } = ClyCoreConfig;
+const { LANGUAGE } = PackageConfig;
 
 interface LinkPropType extends Omit<LinkProps, 'to'> {
 	href?: string;
