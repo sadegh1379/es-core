@@ -29,9 +29,10 @@ const Button: FC<ButtonPropTypes> = input => {
 		</Link>
 	) : (
 		<button
-			className={`${styles.button} ${styles[size]} ${styles[variant]} ${isLoading ? styles.loading : ''} ${
-				className ? className : ''
-			}`}
+			// className={` ${styles.button} ${styles[size]} ${styles[variant]} ${isLoading ? styles.loading : ''} ${
+			// 	className ? className : ''
+			// }`}
+			className='bg-red-700 text-white p-2'
 			{...props}
 			disabled={disabled === true || disabled === false ? disabled : isLoading === true ? true : undefined}
 		>
