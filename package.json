@@ -1,6 +1,6 @@
 {
     "name": "@sadegh1379/es-core",
-    "version": "1.1.34",
+    "version": "1.1.35",
     "private": false,
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
