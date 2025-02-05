@@ -1,6 +1,6 @@
 {
     "name": "@sadegh1379/es-core",
-    "version": "1.1.35",
+    "version": "1.1.36",
     "private": false,
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
@@ -103,7 +103,6 @@
         "rollup-plugin-generate-package-json": "^3.2.0",
         "rollup-plugin-peer-deps-external": "^2.2.4",
         "rollup-plugin-typescript2": "^0.35.0",
-        "standard-version": "^9.5.0",
         "storybook": "^8.0.9",
         "storybook-addon-data-theme-switcher": "^0.1.7",
         "webpack": "^5.88.2"
