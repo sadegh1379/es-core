@@ -36,9 +36,6 @@ jobs:
       - name: Install dependencies
         run: yarn install --prefer-offline
 
-      - name: Bump patch version
-        run: npm version patch -m "Bump patch version to %s"
-
       - name: build
         run: yarn build
 
