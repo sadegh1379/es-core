@@ -1,5 +1,6 @@
 # Core Package for Micro Frontend
 
+
 This project is a **Shared Core package** designed to solve the problem of sharing common components, hooks, icons, and utilities between microfrontend projects in different repositories. After considering several options, using **GitHub Packages** turned out to be the best solution, offering faster development cycles and simplified dependency management. (Although **Monorepo** is also a great option for projects within a single repository, it introduces deployment challenges.)
 
 ## Features
